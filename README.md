@@ -26,8 +26,7 @@
 
 - Use windows file settings to set shortcut or change image.
 
-
-
+---
 Be aware that **I have no idea what I'm doing**. This stuff works for me, but I'm a beginner developer and I can't guarantee the safety of your machine if you choose to run this software.
 
 ---
